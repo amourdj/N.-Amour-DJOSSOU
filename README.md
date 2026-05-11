@@ -1,132 +1,72 @@
 # N.-Amour-DJOSSOU
 PORTFOLIO COMMUNITY MANAGMENT &amp; DIGITAL STRATEGIST
-# N. Amour Djossou — Premium Community Manager Portfolio
+# N. Amour Djossou
 
-A high-end personal portfolio built to showcase a modern digital presence strategy for brands, SMEs, and entrepreneurs.
+### Community Manager • Stratégie Digitale • Présence de Marque
 
-This project is more than a simple portfolio website.  
-It is a branding experience focused on:
+Je transforme la présence digitale des entreprises, PME et marques personnelles en levier de croissance concret.
 
-- visual authority
-- premium UI/UX
-- strategic storytelling
-- digital positioning
-- conversion-oriented presentation
+Mon approche ne consiste pas à publier du contenu pour remplir un feed.
+Chaque stratégie, chaque publication et chaque interaction est pensée pour :
 
----
-
-## ✦ Overview
-
-This portfolio was designed to reflect the mindset of a modern community manager:
-not just posting content, but building perception, engagement, and trust online.
-
-The interface combines:
-- dark luxury aesthetics
-- strong typography
-- smooth interactions
-- animated sections
-- responsive structure
-- strategic content hierarchy
+* renforcer l’image de marque,
+* créer une communauté engagée,
+* améliorer le positionnement digital,
+* générer des opportunités réelles.
 
 ---
 
-## ✦ Features
+## Expertise
 
-- Fully responsive design
-- Premium dark UI
-- Animated hero section
-- Custom cursor interaction
-- Smooth scrolling navigation
-- Reveal-on-scroll animations
-- Skills progression bars
-- Services showcase
-- Projects section
-- Process workflow section
-- Contact CTA blocks
+* Community Management
+* Stratégie de contenu
+* Optimisation de profil
+* Gestion de communauté
+* Copywriting & Storytelling
+* Branding digital
+* Analytics & Reporting
 
 ---
 
-## ✦ Tech Stack
+## Ce que j’apporte
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Google Fonts
-- Responsive Layout System
-
----
-
-## ✦ Design Direction
-
-The visual identity was inspired by:
-- modern creative agencies
-- luxury branding systems
-- editorial layouts
-- minimalist premium portfolios
-
-Main goals:
-- communicate professionalism
-- establish authority
-- increase perceived value
-- create memorability
+✔ Une présence digitale professionnelle
+✔ Une communication cohérente et stratégique
+✔ Une image de marque plus forte
+✔ Un contenu pensé pour l’engagement
+✔ Une approche orientée résultats
 
 ---
 
-## ✦ Target Audience
+## Services
 
-This portfolio is designed for:
-- SMEs
-- startups
-- personal brands
-- businesses seeking digital growth
-- entrepreneurs wanting stronger online positioning
-
----
-
-## ✦ Philosophy
-
-> “A strong digital presence is not decoration.  
-> It is positioning.”
-
-Every section, animation, spacing, and interaction was intentionally designed to reinforce that idea.
+* Gestion de réseaux sociaux
+* Création de contenu
+* Optimisation de profils professionnels
+* Développement de stratégie digitale
+* Community management mensuel
+* Accompagnement personnalisé pour PME & entreprises
 
 ---
 
-## ✦ Future Improvements
+## Vision
 
-- JavaScript interaction upgrades
-- CMS integration
-- dynamic portfolio system
-- performance optimization
-- multilingual support
-- advanced animations
-- analytics dashboard
+> “Votre présence digitale doit refléter la valeur réelle de votre marque.”
+
+Je travaille avec les entreprises et entrepreneurs qui veulent être perçus avec plus de crédibilité, plus d’impact et plus de clarté sur les réseaux.
 
 ---
 
-## ✦ Author
+## Disponible pour
 
-**N. Amour Djossou**  
-Community Manager · Digital Presence Strategist
-
-Focused on:
-- Community Management
-- Content Strategy
-- Brand Positioning
-- Social Media Optimization
-- Digital Communication
+* Missions freelance
+* Collaboration long terme
+* Gestion mensuelle
+* Audit de présence digitale
+* Accompagnement stratégique
 
 ---
 
-## ✦ Contact
+## Contact
 
-📩 nonhouegnonamourdjossou@gmail.com
-
----
-
-## ✦ Live Preview
-
-Add your deployed website link here.
-
-Example:
-https://yourportfolio.vercel.app
+📩 [nonhouegnonamourdjossou@gmail.com](mailto:nonhouegnonamourdjossou@gmail.com)
